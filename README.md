@@ -1,2 +1,9 @@
 # Projeto_Javascript_atletas
-Projeto desenvolvido em JavaScript para praticar manipulação de arrays, loops e cálculo de média. Simula a avaliação de atletas em uma competição de ginástica artística.
+## 🏅 Notas dos Atletas
+
+Projeto em JavaScript que calcula a média das notas de atletas em uma competição de ginástica artística.
+
+📌 Regras:
+- 5 notas por atleta
+- Descartar a maior e a menor nota
+- Calcular média com as 3 notas restantes
